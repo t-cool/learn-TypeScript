@@ -9,4 +9,4 @@ function greet(person: Person) {
 
 let john: Person = { name: 'John', age: 25 };
 
-console.log(greet(john)); // Output: Hello, my name is John and I am 25 years old.
+console.log(greet(john));  // Output: Hello, my name is John and I am 25 years old.
